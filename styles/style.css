@@ -59,7 +59,7 @@
   stroke-width: 2;
 }
 .product:hover {
-  fill-opacity: 0.8; /* Make the rectangle semi-transparent on hover */
+  fill-opacity: 0.8;
 }
 .tooltip {
   position: absolute;
