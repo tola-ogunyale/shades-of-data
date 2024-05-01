@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shades + Stats</title>
+    <link rel="stylesheet" href="styles/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="header-container">
+        <div class="title">shades of data</div>
+        <div class="descript">
+          by Tola Ogunyale <br />
+          a visuzalization of over 5,000 makeup foundation shades offered by
+          popular brands to gain insight on the representation of shades for
+          different skintones.
+          <br />
+          <span id="credit"
+            >primary data set courtesy of
+            <a href="https://pudding.cool/2021/03/foundation-names/"
+              >the Pudding</a
+            ></span
+          >
+        </div>
+      </div>
+      <div class="main-container">
+        <div class="tooltip" style="opacity: 0"></div>
+        <div class="filters">
+          <select name="dropdown" id="dropdown"></select>
+        </div>
+        <!-- <img src="https://placehold.co/600x400/orange/white" alt=""> -->
+      </div>
+      <div class="secondary-container">
+        <div class="secondary-left">
+          <!-- <img src="https://placehold.co/400" alt=""> -->
+        </div>
+        <div class="secondary-right">
+          <div class=".secondary-right-text"></div>
+          <!-- <img src="https://placehold.co/400x200" alt=""> -->
+        </div>
+      </div>
+    </div>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"
+      integrity="sha512-vc58qvvBdrDR4etbxMdlTt4GBQk1qjvyORR2nrsPsFPyrs+/u5c3+1Ct6upOgdZoIl7eq6k3a1UPDSNAQi/32A=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"
+      integrity="sha512-4UKI/XKm3xrvJ6pZS5oTRvIQGIzZFoXR71rRBb1y2N+PbwAsKa5tPl2J6WvbEvwN3TxQCm8hMzsl/pO+82iRlg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    ></script>
+    <script src="scripts/main.js"></script>
+    <script src="scripts/map.js"></script>
+  </body>
+</html>

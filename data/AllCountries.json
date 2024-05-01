@@ -1,0 +1,430 @@
+[
+  {
+    "brand": "Anastasia Beverly Hills",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "BECCA Cosmetics",
+    "origin": "Australia"
+  },
+  {
+    "brand": "Benefit Cosmetics",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "It Cosmetics",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "KVD Vegan Beauty",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Lancôme",
+    "origin": "France"
+  },
+  {
+    "brand": "Laura Mercier",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "NARS",
+    "origin": "France"
+  },
+  {
+    "brand": "NUDESTIX",
+    "origin": "Canada"
+  },
+  {
+    "brand": "Perricone MD",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Smashbox",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Tarte",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Too Faced",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Urban Decay Cosmetics",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "CoverGirl",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "ULTA",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "J.Cat Beauty",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Catrice",
+    "origin": "Germany"
+  },
+  {
+    "brand": "BLK/OPL",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Maybelline",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "bareMinerals",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Makeup Revolution",
+    "origin": "United Kingdom"
+  },
+  {
+    "brand": "COVER FX",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "HOURGLASS",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "NYX Professional Makeup",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "W3LL PEOPLE",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "PÜR",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Winky Lux",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Milani",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Burt's Bees",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "L'Oréal",
+    "origin": "France"
+  },
+  {
+    "brand": "MAC",
+    "origin": "Canada"
+  },
+  {
+    "brand": "Au Naturale",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Clinique",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "jane iredale",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Estée Lauder",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Dermablend",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Wet n Wild",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Hynt Beauty",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "e.l.f. Cosmetics",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "KIKO Milano",
+    "origin": "Italy"
+  },
+  {
+    "brand": "Pacifica",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Beauty Bakerie",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "L.A. Girl",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Revlon",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Almay",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Juice Beauty",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Physicians Formula",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Morphe",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "UOMA Beauty",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Elcie Cosmetics",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Juvia's Place",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Ofra Cosmetics",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "florence by mills",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "LORAC",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "The Ordinary",
+    "origin": "Canada"
+  },
+  {
+    "brand": "ColourPop",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "FLOWER Beauty",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "VDL",
+    "origin": "South Korea"
+  },
+  {
+    "brand": "ZOEVA",
+    "origin": "Germany"
+  },
+  {
+    "brand": "Essence",
+    "origin": "Germany"
+  },
+  {
+    "brand": "Exa",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "SMITH & CULT",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Dose Of Colors",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "FENTY BEAUTY by Rihanna",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Armani Beauty",
+    "origin": "France"
+  },
+  {
+    "brand": "ILIA",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "MAKE UP FOR EVER",
+    "origin": "France"
+  },
+  {
+    "brand": "beautyblender",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Rare Beauty by Selena Gomez",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Charlotte Tilbury",
+    "origin": "United Kingdom"
+  },
+  {
+    "brand": "SEPHORA COLLECTION",
+    "origin": "France"
+  },
+  {
+    "brand": "HUDA BEAUTY",
+    "origin": "United Arab Emirates"
+  },
+  {
+    "brand": "Dior",
+    "origin": "France"
+  },
+  {
+    "brand": "Gucci",
+    "origin": "Italy"
+  },
+  {
+    "brand": "Dr. Jart+",
+    "origin": "South Korea"
+  },
+  {
+    "brand": "Bobbi Brown",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "PAT McGRATH LABS",
+    "origin": "United Kingdom"
+  },
+  {
+    "brand": "Yves Saint Laurent",
+    "origin": "France"
+  },
+  {
+    "brand": "MILK MAKEUP",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Kosas",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "TOM FORD",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Shiseido",
+    "origin": "Japan"
+  },
+  {
+    "brand": "La Mer",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "rms beauty",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Natasha Denona",
+    "origin": "Israel"
+  },
+  {
+    "brand": "AMOREPACIFIC",
+    "origin": "South Korea"
+  },
+  {
+    "brand": "Bite Beauty",
+    "origin": "Canada"
+  },
+  {
+    "brand": "Erborian",
+    "origin": "France"
+  },
+  {
+    "brand": "Guerlain",
+    "origin": "France"
+  },
+  {
+    "brand": "Josie Maran",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Marc Jacobs Beauty",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Wander Beauty",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "KEVYN AUCOIN",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Jouer Cosmetics",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Koh Gen Do",
+    "origin": "Japan"
+  },
+  {
+    "brand": "COOLA",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Givenchy",
+    "origin": "France"
+  },
+  {
+    "brand": "surratt beauty",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Dr. Dennis Gross Skincare",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "LAWLESS",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Origins",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "boscia",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "lilah b.",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Antonym",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Pretty Vulgar",
+    "origin": "United States of America"
+  },
+  {
+    "brand": "Black Up",
+    "origin": "France"
+  }
+]
