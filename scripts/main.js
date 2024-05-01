@@ -8,7 +8,7 @@ var brandColors = [];
 var avgColor;
 
 //Load data
-d3.csv("./data/AllShades.csv")
+d3.csv("data/allShades.csv")
   .then(function (data) {
     /* ===  DATA CLEANING  ===  */
     data.forEach((d) => {
